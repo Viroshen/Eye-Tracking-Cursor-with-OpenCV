@@ -1,3 +1,6 @@
+# Referenced from:
+# https://medium.com/@manchalasreekanth999/building-an-eye-controlled-mouse-using-python-and-opencv-f07934a4e15c
+
 import cv2
 import mediapipe as mp
 import pyautogui
